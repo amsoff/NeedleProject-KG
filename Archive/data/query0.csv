@@ -1,0 +1,101 @@
+vector,vectorLabel
+http://www.wikidata.org/entity/Q2755328,Square
+http://www.wikidata.org/entity/Q2735449,NewDES
+http://www.wikidata.org/entity/Q2658354,SHARK
+http://www.wikidata.org/entity/Q2601463,SAFER
+http://www.wikidata.org/entity/Q2507783,GOST 28147-89
+http://www.wikidata.org/entity/Q2454245,DES-X
+http://www.wikidata.org/entity/Q2329462,Khufu and Khafre
+http://www.wikidata.org/entity/Q2327219,GDES
+http://www.wikidata.org/entity/Q2326939,Akelarre
+http://www.wikidata.org/entity/Q2075709,Madryga
+http://www.wikidata.org/entity/Q2028197,REDOC
+http://www.wikidata.org/entity/Q1881198,MARS
+http://www.wikidata.org/entity/Q1753382,RC2
+http://www.wikidata.org/entity/Q1718415,KASUMI
+http://www.wikidata.org/entity/Q1648054,LOKI97
+http://www.wikidata.org/entity/Q1636024,ICE
+http://www.wikidata.org/entity/Q1609474,CS-Cipher
+http://www.wikidata.org/entity/Q1595597,Tiny Encryption Algorithm
+http://www.wikidata.org/entity/Q1501904,Serpent
+http://www.wikidata.org/entity/Q1422306,Skipjack
+http://www.wikidata.org/entity/Q1389431,Idea NXT
+http://www.wikidata.org/entity/Q1388053,FEAL
+http://www.wikidata.org/entity/Q1384945,XTEA
+http://www.wikidata.org/entity/Q1356939,RC6
+http://www.wikidata.org/entity/Q1349650,RC5
+http://www.wikidata.org/entity/Q1343482,Lucifer
+http://www.wikidata.org/entity/Q1333561,SM4
+http://www.wikidata.org/entity/Q1110200,KHAZAD
+http://www.wikidata.org/entity/Q1061548,SEED
+http://www.wikidata.org/entity/Q1028476,Camellia
+http://www.wikidata.org/entity/Q1022875,CAST-256
+http://www.wikidata.org/entity/Q848204,International Data Encryption Algorithm
+http://www.wikidata.org/entity/Q840633,ARIA
+http://www.wikidata.org/entity/Q815853,Blowfish
+http://www.wikidata.org/entity/Q747320,Twofish
+http://www.wikidata.org/entity/Q727476,S-1 block cipher
+http://www.wikidata.org/entity/Q615772,Red Pike
+http://www.wikidata.org/entity/Q548973,MAGENTA
+http://www.wikidata.org/entity/Q474055,SHACAL
+http://www.wikidata.org/entity/Q378566,LOKI
+http://www.wikidata.org/entity/Q338574,Cellular Message Encryption Algorithm
+http://www.wikidata.org/entity/Q284899,DEAL
+http://www.wikidata.org/entity/Q223123,3-Way
+http://www.wikidata.org/entity/Q190746,Advanced Encryption Standard
+http://www.wikidata.org/entity/Q135035,Data Encryption Standard
+http://www.wikidata.org/entity/Q134983,Triple DES
+http://www.wikidata.org/entity/Q53735,CAST-128
+http://www.wikidata.org/entity/Q11785332,Monte Carlo tree search
+http://www.wikidata.org/entity/Q5256228,Demon algorithm
+http://www.wikidata.org/entity/Q15238499,Monte Carlo algorithm
+http://www.wikidata.org/entity/Q4924414,Karger's algorithm
+http://www.wikidata.org/entity/Q2593434,work stealing
+http://www.wikidata.org/entity/Q232207,Monte Carlo method
+http://www.wikidata.org/entity/Q17278655,Zhao Youqin's π algorithm
+http://www.wikidata.org/entity/Q5315362,Dunkerley's method
+http://www.wikidata.org/entity/Q4876189,Beam propagation method
+http://www.wikidata.org/entity/Q3751018,Borwein's algorithm
+http://www.wikidata.org/entity/Q2448949,Gauss–Legendre algorithm
+http://www.wikidata.org/entity/Q3281179,Malachim
+http://www.wikidata.org/entity/Q846324,Polybius square
+http://www.wikidata.org/entity/Q486598,quicksort
+http://www.wikidata.org/entity/Q243754,binary search algorithm
+http://www.wikidata.org/entity/Q18392883,RAC drawing
+http://www.wikidata.org/entity/Q18205503,Bend minimization
+http://www.wikidata.org/entity/Q29033062,multiplicative binary search
+http://www.wikidata.org/entity/Q28811699,Greedy triangulation
+http://www.wikidata.org/entity/Q28458370,Best Node Search
+http://www.wikidata.org/entity/Q28456560,Anytime A*
+http://www.wikidata.org/entity/Q17126276,similarity search
+http://www.wikidata.org/entity/Q17037441,Jump point search
+http://www.wikidata.org/entity/Q17012914,exponential search
+http://www.wikidata.org/entity/Q17008878,Conflict Driven Clause Learning
+http://www.wikidata.org/entity/Q10787701,uniform-cost search
+http://www.wikidata.org/entity/Q7841902,trigram search
+http://www.wikidata.org/entity/Q7595958,stack search
+http://www.wikidata.org/entity/Q5272532,dichotomic search
+http://www.wikidata.org/entity/Q4925741,Fibonacci search technique
+http://www.wikidata.org/entity/Q4925115,uniform binary search
+http://www.wikidata.org/entity/Q4922513,jump search
+http://www.wikidata.org/entity/Q4876196,beam stack search
+http://www.wikidata.org/entity/Q4833637,B*
+http://www.wikidata.org/entity/Q2835852,beam search
+http://www.wikidata.org/entity/Q2112910,proof-number search
+http://www.wikidata.org/entity/Q2030088,DPLL algorithm
+http://www.wikidata.org/entity/Q1675274,iterative deepening depth-first search
+http://www.wikidata.org/entity/Q1147856,interpolation search
+http://www.wikidata.org/entity/Q1028292,Grover's algorithm
+http://www.wikidata.org/entity/Q829647,depth-limited search
+http://www.wikidata.org/entity/Q787903,linear search
+http://www.wikidata.org/entity/Q570496,alpha–beta pruning
+http://www.wikidata.org/entity/Q493743,SMA*
+http://www.wikidata.org/entity/Q286820,BLAST
+http://www.wikidata.org/entity/Q277680,A* search algorithm
+http://www.wikidata.org/entity/Q243754,binary search algorithm
+http://www.wikidata.org/entity/Q59750,bidirectional search
+http://www.wikidata.org/entity/Q17083547,Quadratic Frobenius test
+http://www.wikidata.org/entity/Q7992010,Wheel factorization
+http://www.wikidata.org/entity/Q5365795,Elliptic curve primality testing
+http://www.wikidata.org/entity/Q4848469,Baillie–PSW primality test
+http://www.wikidata.org/entity/Q4683276,Adleman–Pomerance–Rumely primality test
